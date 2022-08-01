@@ -15,7 +15,7 @@ Simple demo app where you can login/signup users, share new places and see what 
 Developed under the MERN stack. Backend host in Heroku. Frontend host in Firebase.
 
 ## Features
-
+- 🎊 MERN
 - 🌍 Google maps API
 - 💻 Fully responsive
 - 🤖 User-friendly
